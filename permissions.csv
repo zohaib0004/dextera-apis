@@ -1,0 +1,141 @@
+Permissions,Category
+Add User ,Administrator Level Controls 
+Remove User ,Administrator Level Controls 
+Edit User Profile ,Administrator Level Controls 
+Edit Attorney Profile ,Administrator Level Controls 
+Edit Supervisor Profile ,Administrator Level Controls 
+Unlock Profile ,Administrator Level Controls 
+Reset Password ,Administrator Level Controls 
+Create Workflow ,Administrator Level Controls 
+Edit Workflow ,Administrator Level Controls 
+Delete Workflow ,Administrator Level Controls 
+Edit Permissions ,Administrator Level Controls 
+Edit Roles ,Administrator Level Controls 
+Edit Groups ,Administrator Level Controls 
+Edit Field Names ,Administrator Level Controls 
+Disable System Security – IP ,Administrator Level Controls 
+Enable Directed Work ,Administrator Level Controls 
+Enable IM Message System ,Administrator Level Controls 
+Disable IM Message System ,Administrator Level Controls 
+Review IM Message Archive ,Administrator Level Controls 
+Print IM Message Archive ,Administrator Level Controls 
+Create Alerts ,Administrator Level Controls 
+Edit Alerts ,Administrator Level Controls 
+General Alerts – Active ,Administrator Level Controls 
+General Alerts - Off ,Administrator Level Controls 
+Edit Court # of days to wait – action ,Administrator Level Controls 
+Export File Data ,Administrator Level Controls 
+Import File Data ,Administrator Level Controls 
+Input Firm Info ,Administrator Level Controls 
+Edit Firm Info ,Administrator Level Controls 
+Delete Firm Info ,Administrator Level Controls 
+Input State Info ,Administrator Level Controls 
+Edit State Info ,Administrator Level Controls 
+Delete State Info ,Administrator Level Controls 
+Input County Info ,Administrator Level Controls 
+Edit County Info ,Administrator Level Controls 
+Delete County Info ,Administrator Level Controls 
+Input City Info ,Administrator Level Controls 
+Edit City Info ,Administrator Level Controls 
+Delete City Info ,Administrator Level Controls 
+Manage Newsletter ,Attorney & Supervisor Level Controls 
+Manage Newsletter Client List ,Attorney & Supervisor Level Controls 
+Edit Newsletter ,Attorney & Supervisor Level Controls 
+Send Newsletter ,Attorney & Supervisor Level Controls 
+Override Directed Work ,Attorney & Supervisor Level Controls 
+Manage Attorney Work ,Attorney & Supervisor Level Controls 
+Set Attorney Billable Hours Goals ,Attorney & Supervisor Level Controls 
+Create All Reports ,Reports
+Create Finance Reports ,Reports
+Create Historical Reports ,Reports
+Create Production Reports ,Reports
+Create Case Reports ,Reports
+Create Client Reports ,Reports
+Run All Reports ,Reports
+Run Finance Reports ,Reports
+Run Historical Reports ,Reports
+Run Production Reports ,Reports
+Run Case Reports ,Reports
+Run Client Reports ,Reports
+Manage Status Reports ,Reports
+Send Status Reports ,Reports
+Review Status Reports Sent History ,Reports
+Input Confidential Information ,Confidential Information 
+Edit Confidential Information ,Confidential Information 
+Delete Confidential Information ,Confidential Information 
+View Confidential Information ,Confidential Information 
+Print Confidential Information ,Confidential Information 
+Upload Debtors Photo ,Confidential Information 
+View Photo ,Confidential Information 
+Delete Photo ,Confidential Information 
+Print Photo ,Confidential Information 
+Edit SSN ,Confidential Information 
+Delete SSN ,Confidential Information 
+View Full SSN ,Confidential Information 
+View Partial SSN – First 5  ,Confidential Information 
+View Partial SSN – Last 4 ,Confidential Information 
+Print Full SSN ,Confidential Information 
+Print Partial SSN – Last 4 ,Confidential Information 
+Add New Client ,Client & Case Controls
+Add New Case ,Client & Case Controls
+Edit Client Data ,Client & Case Controls
+Edit Case Data ,Client & Case Controls
+Delete Client ,Client & Case Controls
+Delete Case ,Client & Case Controls
+Manage Client Contract ,Client & Case Controls
+Edit Ledger ,General Controls 
+Delete Ledger ,General Controls 
+Add Ledger Transaction ,General Controls 
+Assign Tasks ,General Controls 
+Edit User Window ,General Controls 
+Create Template Documents ,General Controls 
+Edit Template Documents ,General Controls 
+Delete Template Documents ,General Controls 
+Use IM Message System ,General Controls 
+Use System Calendar ,General Controls 
+Upload Documents ,General Controls 
+Email Documents ,General Controls 
+Delete Documents ,General Controls 
+Edit Documents ,General Controls 
+Save Documents ,General Controls 
+Print Documents ,General Controls 
+Input Debtor General Info ,General Controls 
+Edit Debtor General Info ,General Controls 
+View Debtor General Info ,General Controls 
+Print Debtor General Info ,General Controls 
+Delete Debtor General Info ,General Controls 
+Close Files ,General Controls 
+Input Opposing Counsel Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit Opposing Counsel Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Delete Opposing Counsel Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Input Court Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit Court Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit Court Fees ,"Counsel, Court, Recorder, Bank, & Sheriff "
+View Court Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Input Bank Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit Bank Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit Bank Fees ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Delete Bank info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Input Sheriff Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit Sheriff Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit Sheriff Fees ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Delete Sheriff Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Input County Recorder Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit County Recorder Info ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Edit County Recorder Fees ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Delete County Recorder ,"Counsel, Court, Recorder, Bank, & Sheriff "
+Create Payment Plan ,Payment Plan Controls 
+Edit Payment Plan ,Payment Plan Controls 
+Print Payment Plan ,Payment Plan Controls 
+Print Payment History ,Payment Plan Controls 
+Delete Payment Plan ,Payment Plan Controls 
+Approve Payment Plan ,Payment Plan Controls 
+Remove or Discount Fees ,Payment Plan Controls 
+Bankruptcy Alert – Active ,Bankruptcy Controls 
+Bankruptcy Alert – Off ,Bankruptcy Controls 
+Take Action in Bankruptcy Files ,Bankruptcy Controls 
+Edit Bankruptcy Attorney ,Bankruptcy Controls 
+Edit Bankruptcy Trustee ,Bankruptcy Controls 
+Edit Bankruptcy Info ,Bankruptcy Controls 
+Input Bankruptcy Info ,Bankruptcy Controls 
+Delete Bankruptcy Info ,Bankruptcy Controls 
